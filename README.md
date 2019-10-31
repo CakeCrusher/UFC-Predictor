@@ -3,7 +3,9 @@ A compilation of machine learning models and neural networks (which are exclusiv
 
 
 This repository contrains scrapers for both https://www.sherdog.com/ and https://www.mixedmartialarts.com/ but it was primarily focused on https://www.sherdog.com/
+
 This repository already contains a refined dataset of 4,968 unique fights as well as an unrefined dataset with 10,406 fights both scraped from https://www.sherdog.com/ for use in machine learning algorithms.
+
 This repository also contains a refined dataset of 42,599 fights many of which are repeated scraped from https://www.sherdog.com/ for use in the recurrent neural network.
 
 
