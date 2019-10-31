@@ -1,5 +1,5 @@
 # UFC-Predictor
-A compilation of machine learning models and neural networks (which are exclusively fed UFC data) designed to predict the outcome of an MMA fight by who won and the way by which they won.
+A compilation of machine learning models and neural networks (which are exclusively fed UFC data) designed to predict the outcome of an MMA(specifically UFC) fight by who won and the way by which they won.
 
 
 This repository contrains scrapers for both https://www.sherdog.com/ and https://www.mixedmartialarts.com/ but it was primarily focused on https://www.sherdog.com/
